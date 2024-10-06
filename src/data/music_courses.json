@@ -1,0 +1,64 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Guitar Fundamentals",
+            "slug": "guitar-fundamentals",
+            "description":"Learn basics of playing guitar with our comprehensive begginer's course.",
+            "price": 99.99,
+            "instructor": "John Doe",
+            "isFeatured": true,
+            "image": "/courses/guitar.jpg"
+        },
+        {
+            "id": 1,
+            "title": "Piano for Begginers",
+            "slug": "piano-for-begginers",
+            "description":"Start you musical journey with foundational piano skills taught by expert instructors.",
+            "price": 199.99,
+            "instructor": "Jane Smith",
+            "isFeatured": true,
+            "image": "/courses/piano.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Advanced Vocal Techniques",
+            "slug": "advanced-vocal-techniques",
+            "description":"Enhance your singign with advanced vocal techniques for intermediate to advanced learners",
+            "price": 99.99,
+            "instructor": "Emily Johnson",
+            "isFeatured": true,
+            "image": "/courses/vocalist.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Drumming Mastery",
+            "slug": "drumming-mastery",
+            "description": "Master the drums with our comprehensive course covering all skill levels.",
+            "price": 129.99,
+            "instructor": "Mike Brown",
+            "isFeatured": false,
+            "image": "/courses/drumming.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Jazz Improvisation",
+            "slug": "jazz-improvisation",
+            "description":"Learn the art of jazz improvisation with this course designed for al levels",
+            "price": 159.99,
+            "instructor": "Chris David",
+            "isFeatured": false,
+            "image": "/courses/jazz.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Music production Fundamentals",
+            "slug": "music-production-fundamentals",
+            "description":"Learn the fundamentals of music production",
+            "price": 199.99,
+            "instructor": "Dakota Johnson",
+            "isFeatured": true,
+            "image": "/courses/musicproduction.jpg"
+        }
+    ]
+} 
